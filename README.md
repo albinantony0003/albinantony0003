@@ -1,6 +1,3 @@
-```bash
-# Hello everyone...
-
 
 # 👋 Hi, I'm Antony , Albin Antony
 I'm a DevOps & Cloud Engineer with experience in AWS, CI/CD, and Kubernetes. I love automating workflows and exploring new technologies.
