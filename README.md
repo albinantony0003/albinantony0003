@@ -1,4 +1,4 @@
-![](https://github.com/albinantony0003/albinantony0003/blob/main/hello.jpeg)
+![](https://github.com/albinantony0003/albinantony0003/blob/main/helo-image.jpeg)
 # 👋 Hi, I'm Antony , Albin Antony
 I'm a DevOps & Cloud Engineer with experience in AWS, CI/CD, and Kubernetes. I love automating workflows and exploring new technologies.
 
