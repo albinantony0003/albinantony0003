@@ -1,13 +1,17 @@
+```bash
+# Hello everyone...
+
+
 # 👋 Hi, I'm Antony , Albin Antony
 I'm a DevOps & Cloud Engineer with experience in AWS, CI/CD, and Kubernetes. I love automating workflows and exploring new technologies.
 
 ## 🧠About Me
 
-🔭 I’m currently working remotely.
-🌱 I’m currently learning AI Safety.
-💬 Ask me about AWS, EKS, automation, and CI/CD pipelines.
-📫 How to reach me: albinantony003
-⚡ Fun fact: I love driving and combining it with my passion for technology.
+- 🔭 I’m currently working remotely.
+- 🌱 I’m currently learning AI Safety.
+- 💬 Ask me about AWS, EKS, automation, and CI/CD pipelines.
+- 📫 How to reach me: albinantony003
+- ⚡Fun fact: I love driving and combining it with my passion for technology.
 
 ## 🛠 Skills & Tools
 ![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=FF9900)
