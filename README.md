@@ -1,4 +1,8 @@
-![](https://github.com/albinantony0003/albinantony0003/blob/main/helo-image.jpeg)
+<!-- Banner -->
+<div align="center">
+  <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExb3VlcDVvcWF4aGYwN2dybGMwNHhxMTk3ZW1xdm9hYzV6ZWVsMGtoaiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/xuWkuYl33i28fIwkBM/giphy.gif" align="center" height="350" width="600" />
+</div>
+
 # 👋 Hi, I'm Antony , Albin Antony
 I'm a DevOps & Cloud Engineer with experience in AWS, CI/CD, and Kubernetes. I love automating workflows and exploring new technologies.
 
